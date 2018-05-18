@@ -17,3 +17,13 @@
 - [方块舞舞伴分配问题](https://github.com/mjyplusone/data-structure-js/blob/master/queue/dancer.js)
 - [基数排序](https://github.com/mjyplusone/data-structure-js/blob/master/queue/sort.js)
 - [优先队列](https://github.com/mjyplusone/data-structure-js/blob/master/queue/priority_queue.js)
+### 链表
+- [链表的实现](https://github.com/mjyplusone/data-structure-js/tree/master/linkList/linkList.js)
+- [双向链表](https://github.com/mjyplusone/data-structure-js/tree/master/linkList/doubleLinkList.js)
+- [循环链表](https://github.com/mjyplusone/data-structure-js/tree/master/linkList/loopLinkList.js)
+- [循环链表应用：约瑟夫环](https://github.com/mjyplusone/data-structure-js/tree/master/linkList/game.js)
+### 字典
+- [字典的实现](https://github.com/mjyplusone/data-structure-js/tree/master/dictionary/dictionary.js)
+- [单词出现次数统计](https://github.com/mjyplusone/data-structure-js/tree/master/dictionary/count.js)
+### 散列表
+- []()

@@ -26,4 +26,12 @@
 - [字典的实现](https://github.com/mjyplusone/data-structure-js/tree/master/dictionary/dictionary.js)
 - [单词出现次数统计](https://github.com/mjyplusone/data-structure-js/tree/master/dictionary/count.js)
 ### 散列表
+- [散列的实现](https://github.com/mjyplusone/data-structure-js/tree/master/hashTable/hashTable.js)
+- [散列表取值](https://github.com/mjyplusone/data-structure-js/tree/master/hashTable/hashTableGet.js)
+- [碰撞处理-开链法](https://github.com/mjyplusone/data-structure-js/tree/master/hashTable/collision_buildchains.js)
+- [碰撞处理-线性探测](https://github.com/mjyplusone/data-structure-js/tree/master/hashTable/collision_linedetect.js)
+### 集合
+- [集合的实现](https://github.com/mjyplusone/data-structure-js/tree/master/Set/Set.js)
+- [元素按顺序存储的集合](https://github.com/mjyplusone/data-structure-js/tree/master/Set/seqSet.js)
+### 二叉树
 - []()

@@ -58,7 +58,7 @@
 ### 动态规划
 - [Fibonacci数列](https://github.com/mjyplusone/data-structure-js/tree/master/dp/Fibonacci.js)
 - [最长公子串](https://github.com/mjyplusone/data-structure-js/tree/master/dp/lcs.js)
-- [背包问题](https://github.com/mjyplusone/data-structure-js/tree/master/dp/knapsack.js)
+- [背包问题](https://github.com/mjyplusone/data-structure-js/blob/master/dp/knapsack.js)
 ### 贪心算法
 - [找零问题](https://github.com/mjyplusone/data-structure-js/tree/master/greedy/makechange.js)
 - [背包问题](https://github.com/mjyplusone/data-structure-js/tree/master/greedy/knapsack.js)

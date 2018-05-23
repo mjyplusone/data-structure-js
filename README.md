@@ -62,3 +62,5 @@
 ### 贪心算法
 - [找零问题](https://github.com/mjyplusone/data-structure-js/tree/master/greedy/makechange.js)
 - [背包问题](https://github.com/mjyplusone/data-structure-js/tree/master/greedy/knapsack.js)
+***
+> 最后，这本书代码错误有点多啊...
